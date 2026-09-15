@@ -134,7 +134,7 @@ The objective is to make security results understandable to normal users instead
                         ▼
               ┌──────────────────┐
               │ Chrome Extension │
-              │ React + JavaScript│
+              │React + JavaScript│
               │   Manifest V3    │
               └────────┬─────────┘
                        │
